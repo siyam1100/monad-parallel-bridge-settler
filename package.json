@@ -1,0 +1,10 @@
+{
+  "name": "monad-parallel-bridge-settler",
+  "version": "1.0.0",
+  "description": "High-concurrency parallel cryptographic proof and bridge settlement engine for Monad",
+  "main": "simulateBridgeSettlement.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
